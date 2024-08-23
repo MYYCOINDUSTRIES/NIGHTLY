@@ -1,4 +1,4 @@
-# Installation Guide for NIGHTLY Theme
+# Nightly Installation Guide
 
 Follow these steps to install the NIGHTLY theme on BetterDiscord:
 
